@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Thiago",
+    "sobrenome": "Alves",
+    "telefone": "111111111",
+    "ra": 1
+  },
+  {
+    "id": 2,
+    "nome": "james",
+    "sobrenome": "Phewrys",
+    "telefone": "222222222",
+    "ra": 2
+  },
+  {
+    "id": 3,
+    "nome": "Tiago",
+    "sobrenome": "Phewrys",
+    "telefone": "33333333",
+    "ra": 3
+  },
+  {
+    "id": 4,
+    "nome": "Test",
+    "sobrenome": "TestTest",
+    "telefone": "100034544",
+    "ra": 10
+  }
+]
